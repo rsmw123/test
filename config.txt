@@ -1,0 +1,6 @@
+token=kcRFsJi3to6A55IRM3v1E2Y5NM8ydGZf
+owner=510463024193339393
+prefix= 1
+game= 1thelp
+stayinchannel=true
+songinstatus=true 
